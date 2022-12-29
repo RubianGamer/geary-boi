@@ -1,4 +1,4 @@
-#Geary Boi
+# Geary Boi
 
 Geary Boi is a BMG based extruder with a small footprint to fit on small toolheads.
 
@@ -21,7 +21,7 @@ https://discord.gg/2XBTuWrQu5
 if you want to support my work, feel free to join my patreon
 https://www.patreon.com/RubianGamer
 
-#renders
+# renders
 
 ![render_front](https://cdn.discordapp.com/attachments/1006560886602862594/1057298350350803044/geary_boy_extruder.png?raw=true)
 
