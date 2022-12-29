@@ -4,7 +4,7 @@ Geary Boi is a BMG based extruder with a small footprint to fit on small toolhea
 
 ![render_front](https://cdn.discordapp.com/attachments/1006560886602862594/1057298350350803044/geary_boy_extruder.png?raw=true)
 
-#features
+# features
 
 - 8 mounting holes on sides and bottom
 - compact and lightweight design
