@@ -30,3 +30,13 @@ https://www.patreon.com/RubianGamer
 ![render_back2](https://cdn.discordapp.com/attachments/1006560886602862594/1057298350988341370/geary_boy_extruder_3.png?raw=true)
 
 ![render_side](https://cdn.discordapp.com/attachments/1006560886602862594/1057298351474872390/geary_boy_extruder_4.png?raw=true)
+
+# prints
+
+82A TPU at 100mm/s (8mm/s^2)
+![TPU_print](https://cdn.discordapp.com/attachments/1006560886602862594/1060176803706191932/IMG_20221228_165105.jpg?raw=true)
+
+woodgrain test print
+![woodgrain](https://cdn.discordapp.com/attachments/1006560886602862594/1060176803425169408/IMG_20230104_134309.jpg?raw=true)
+
+
