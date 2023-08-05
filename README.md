@@ -11,6 +11,8 @@ Geary Boi is a BMG based extruder with a small footprint to fit on small toolhea
 - super tight tolerance housing avalible for excelent performance with TPU (tested with 82A TPU at 100mm/s)
 - supports both 10 tooth and 8 tooth gear nema14 motors
 
+- seperate lower but wider version avalible
+
 # Discord
 
 for more info or questions about the extruder, or other 3d printing/printer related things, feel free to joing the discord server.
@@ -30,6 +32,12 @@ https://www.patreon.com/RubianGamer
 ![render_back2](https://cdn.discordapp.com/attachments/1006560886602862594/1057298350988341370/geary_boy_extruder_3.png?raw=true)
 
 ![render_side](https://cdn.discordapp.com/attachments/1006560886602862594/1057298351474872390/geary_boy_extruder_4.png?raw=true)
+
+![render_low_front](https://cdn.discordapp.com/attachments/1006560886602862594/1137385957948149890/geary_boi_low_front.png?raw=true)
+
+![render_low_rear](https://cdn.discordapp.com/attachments/1006560886602862594/1137385958233358426/geary_boi_low_rear.png?raw=true)
+
+![render_low_side](https://cdn.discordapp.com/attachments/1006560886602862594/1137385958556307528/geary_boi_low_side.png?raw=true)
 
 # prints
 

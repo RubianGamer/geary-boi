@@ -1,5 +1,3 @@
-ilustrated manual is in the works
-
 1) put heatsets into all the parts (9 total), reference CAD if its not clear where they all go. clear up the filament path using a 2mm allen key if needed.
 2) screw the stepper to the stepper mount using a M3x6 BHCS in the bottom right corner, but dont fully tighten it.
 3) press fit the BMG bearing into the stepper mount and put the drivetrain with filament drive gear in the bearing.
